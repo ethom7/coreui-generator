@@ -16,7 +16,7 @@
         "laravel/tinker": "^2.5",
         "infyomlabs/coreui-templates": "8.0.x-dev",
         "infyomlabs/laravel-generator": "8.0.x-dev",
-        "laravel/ui": "3.0",
+        "laravel/ui": "^3.4.6",
         "laravelcollective/html": "^6.2"
     },
     "require-dev": {
